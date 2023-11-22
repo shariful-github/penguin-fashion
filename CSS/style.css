@@ -1,7 +1,8 @@
-.font-BebasNeue{
-    font-family: 'Bebas Neue';
-}
+
 body{
     font-family: 'Roboto', sans-serif;
     color:#363958;
+}
+.font-BebasNeue{
+    font-family: 'Bebas Neue';
 }
